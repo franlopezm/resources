@@ -12,10 +12,25 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: 'resources',
-      repo: 'ssh://git@github.com/franlopezm/resources'
+      name: 'Resources',
+      repo: 'https://github.com/franlopezm/resources',
+      loadSidebar: true,
+      subMaxLevel: 4,
+      auto2top: true,
+      relativePath: true,
+      // docsify-copy-code (defaults)
+      copyCode: {
+        buttonText : 'Copy to clipboard',
+        errorText  : 'Error',
+        successText: 'Copied'
+      }
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+   <!-- docsify-copy-code  Latest v2.x.x -->
+   <script src="//unpkg.com/docsify-copy-code@2"></script>
+   <!-- Image zoom-->
+   <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
+
 </body>
 </html>
