@@ -4,7 +4,7 @@
     "description": "Everything ordered in one place",
     "main": "index.js",
     "scripts": {
-        "start": "docsify server ."
+        "start": "docsify serve ./docs"
     },
     "repository": {
         "type": "git",
