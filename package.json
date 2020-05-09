@@ -1,0 +1,26 @@
+{
+    "name": "resources",
+    "version": "1.0.0",
+    "description": "Everything ordered in one place",
+    "main": "index.js",
+    "scripts": {
+        "start": "docsify server ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/franlopezm/resources.git"
+    },
+    "keywords": [
+        "resources",
+        "wiki"
+    ],
+    "author": "Francisco López Muñoz",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/franlopezm/resources/issues"
+    },
+    "homepage": "https://github.com/franlopezm/resources#readme",
+    "dependencies": {
+        "docsify-cli": "^4.4.0"
+    }
+}
