@@ -1,5 +1,7 @@
 <!-- docs/_sidebar.md -->
 
+* [Courses](/others/courses.md)
+
 * [HTTP status codes](/others/httpStatusCodes.md)
 
 * [Docker CLI commands](/others/dockerCommands.md)
