@@ -62,6 +62,24 @@
 | `git remote add origin [https o ssh][url]` | Vincula el repositorio local con un repositorio remoto |
 | `git remote set-url origin [ssh][url]` | Establecer la rama de origin en una rama por SSH |
 
+
+## Tagging
+Tag specific points in a repository's history as being important. Typically, people use this **functionality to mark release points** (v1.0, v2.0, and so on).
+
+| Command | Description |
+| ------- | ----------- |
+| `git tag (--list or -l)` | Listing tags |
+| `git tag -l "<tag name + pattern></tag>"` | Listing tags that match a particular pattern |
+| `git tag -a <tag name> -m "<tagging message>"` | Create annotated tags, are stored as full objects in the Git database |
+| `git tag <tag name>` | Create lightweight tags, it's just a pointer to a specific commit |
+| `git tag -a <tag name> <commit checksum>` | Create a tag from a past commit |
+| `git push origin <tag name>` | Transfer a specific tag to remote servers |
+| `git push origin --tags` | Transfer all local tags to remote servers |
+| `git tag -d <tag name>` | Delete a tag on local repository |
+| `git push origin --delete <tag name>` | Delete a tag from remote servers |
+| `git push <remote> :refs/tags/<tag name>` | Delete a tag from remote servers, when your tag may have the same name as your branch |
+
+
 ## Histórico y comparar
 
 | Comando | Descripción |
