@@ -9,7 +9,7 @@ Autor **Francisco López Muñoz**
 
 [![github](/images/github.png ':size=35x35')][github] [![linkedin](/images/linkedin.png ':size=35x35')][linkedin]
 
-Documentación realizada con [docsify][docsify]
+Documentation made with [docsify][docsify]
 
 [docsify]: https://docsify.js.org
 [github]: https://github.com/franlopezm
