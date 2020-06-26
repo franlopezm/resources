@@ -1,6 +1,8 @@
 <!-- docs/_sidebar.md -->
 
-* [Courses](/others/courses.md)
+* [Courses and Skills](/others/courses.md)
+
+* [Tools](/others/tools.md)
 
 * [HTTP status codes](/others/httpStatusCodes.md)
 
