@@ -1,4 +1,4 @@
-# Courses or Skills
+# Courses and Skills
 
 ## Free
 > Learn about MongoDB.
