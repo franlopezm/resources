@@ -21,7 +21,7 @@
     - **Aggregation performance** and **pipeline optimization**.
 
 - ### [M220JS - MongoDB for Javascript Developers](/mongodb/university/m220js.md) {docsify-ignore}
-    - **Driver setup**: Client configuration and basics reads.
+    - **Driver setup**: Client configuration and basic reads.
     - **User-facing backend**: Aggregation, updates, deletes and joins.
     - **Admin backend**: Read concerns and bulk operations.
     - **Resiliency**: Connection pooling, error and timeout handling, and principle of least privilege.
