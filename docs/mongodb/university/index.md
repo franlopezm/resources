@@ -20,6 +20,12 @@
     - **Miscellaneous Aggregation**: $redact, $out, $merge and views.
     - **Aggregation performance** and **pipeline optimization**.
 
+- ### [M201 - MongoDB Performance](/mongodb/university/m201.md) {docsify-ignore}
+    - **MongoDB indexes**: An overview of the indexes supported by MongoDB.
+    - **Index operations**: A deep dive into how to use indexes to improve performance.
+    - **CRUD optimization**: Different techniques to improve CRUD performance.
+    - **Performance on clusters**: Understanding the different performance use cases for distributed systems with MongoDB.
+
 - ### [M220JS - MongoDB for Javascript Developers](/mongodb/university/m220js.md) {docsify-ignore}
     - **Driver setup**: Client configuration and basic reads.
     - **User-facing backend**: Aggregation, updates, deletes and joins.
