@@ -17,3 +17,4 @@
         * [M201 - MongoDB Performance](/mongodb/university/m201.md)
         * [M220JS - MongoDB for Javascript Developers](/mongodb/university/m220js.md)
         * [M042 - New Features and Tools in MongoDB 4.2](/mongodb/university/m042.md)
+        + [M100 - MongoDB for SQL Pros](/mongodb/university/m100.md)

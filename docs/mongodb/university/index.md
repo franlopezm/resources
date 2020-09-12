@@ -41,3 +41,9 @@
     - **Security**: Configuring external configuration values, and field level encryption.
     - **New aggregation $merge stage**: new syntax and three use cases.
     - **Miscellaneous server improvements**: new document update functionality, compression algorithm, and traffic recorder.
+
+- ### [M100 - MongoDB for SQL Pros](/mongodb/university/m100.md) {docsify-ignore}
+    - **Concepts of RDBMS and MongoDB**: terminology, relational model, document model, acid, transactions, consistency, read preferences.
+    - **Modeling for MongoDB**: modeling, schema, methodology, schema validation, patterns
+    - **Code and Queries**: sql, mql, aggregation framework, code
+    - **The Life Cycle of an Application and Additional Resources**: migration, updates, high-availability, references, learning
