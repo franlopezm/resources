@@ -38,6 +38,11 @@
     - **Admin backend**: Read concerns and bulk operations.
     - **Resiliency**: Connection pooling, error and timeout handling, and principle of least privilege.
 
+- ### [M320 - Data Modeling](/mongodb/university/m320.md) {docsify-ignore}
+    - **Introduction to Data Modeling**: methodology, estimating and quantifying the workload.
+    - **Relationships**: one-to-many, many-to-many, one-to-one, one-to-zillions, zillions, cardinality.
+    - **Patterns**: patterns, attribute, extended reference, subset, computed, bucket, schema versioning, tree, polymorphism, anti-patterns.
+
 - ### [M042 - New Features and Tools in MongoDB 4.2](/mongodb/university/m042.md) {docsify-ignore}
     - **Transactions**: General overview on sharded transaction support, detailed overview on the backbone features to enable this, and expected performance profile.
     - **Enterprise Tools**: Atlas Data Lake introduction and usage, Kafka Connector, MongoDB Charts.
