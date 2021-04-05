@@ -21,6 +21,6 @@
     },
     "homepage": "https://github.com/franlopezm/resources#readme",
     "dependencies": {
-        "docsify-cli": "^4.4.1"
+        "docsify-cli": "^4.4.3"
     }
 }
