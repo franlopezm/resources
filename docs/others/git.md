@@ -61,6 +61,7 @@
 | `git pull origin [branch name]` | Actualizar el repositorio local con los cambios de la rama indicada en el repositorio remoto |
 | `git remote add origin [https o ssh][url]` | Vincula el repositorio local con un repositorio remoto |
 | `git remote set-url origin [ssh][url]` | Establecer la rama de origin en una rama por SSH |
+| `git remote -v` | Listar las urls remotas y sus nombres |
 
 
 ## Tagging
