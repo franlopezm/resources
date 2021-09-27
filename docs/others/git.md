@@ -55,6 +55,7 @@
 | ------- | ----------- |
 | `git push origin [branch name]` | Subir una rama al repositorio remoto |
 | `git push -u origin [branch name]` | Subir los cambios a una rama del repositorio remoto |
+| `git push -f origin [branch name]` | Fuerza la subida de cambios al repositorio remoto especificado |
 | `git push` | Subir los cambios de la rama en la que nos encontramos al repositorio remoto |
 | `git push origin --delete [branch name]` | Eliminar una rama remota |
 | `git pull` | Actualizar la rama en la que nos encontramos en el repositorio local con los nuevos commit del repositorio remoto |
